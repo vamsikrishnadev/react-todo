@@ -10,7 +10,7 @@ newtodo:""
         this.setState({newtodo:""})
     }
     onChangevalue=e=>{
-        console.log(e)
+        
         this.setState({newtodo:e.target.value})
     }
     render(){

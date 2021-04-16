@@ -23,8 +23,7 @@ class App extends Component {
         id:uuidv4(),
         name:"munduri"
       }
-    ],
-  newTodo:""
+    ]
 }
   }
   
